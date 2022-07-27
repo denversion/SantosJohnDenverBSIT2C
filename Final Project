@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border: 1px ;
+  border-radius: 0px;
+}
+th, td {
+  background-color: #eab676;
+}
+body{
+	background-repeat:no-reapeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+</style>
+
+<body style="background-image: url(bgfinal.jpg); background-repeat:no-reapeat; background-size: 100% 100%">
+<hr width=1335 size=10 color="red"> </hr>
+<h1 align="center"style="background-color:tomato">FINAL PROJECT</h1>
+<hr width=1335 size=10 color="red"></hr><br>
+<center>
+
+<table>
+<tr>
+<th style="font-size: 3vw">ACTIVITY NO.1</th>
+<th style="font-size: 3vw">ACTIVITY NO.2</th>
+<th style="font-size: 3vw">ACTIVITY NO.3</th>
+<th style="font-size: 3vw">ACTIVITY NO.4</th>
+<th style="font-size: 3vw">ACTIVITY NO.5</th>
+</tr>
+<tr>
+<td><center><a href=".htm"><img src="act1.png" alt="" height=300 width=220></td>
+<td><center><a href="webpage.htm"><img src="act2.png" alt="" height=300 width=220></td>
+<td><center><a href="webpage2.htm"><img src="act3.png" alt="" height=300 width=220></td>
+<td><center><a href="homeicon.htm"><img src="act4.png" alt="" height=300 width=220></td>
+<td><center><a href="webpage3.htm"><img src="act5.png" alt="" height=300 width=220></td>
+</tr>
+<tr>
+
+<td style="font-size: 1.5vw" ><center>Me. Im a college student of CdM(Colegio <br>
+de Montalban, my course is BSIT Bachelor<br>
+of Science Information Technology</td>
+<td style="font-size: 1.5vw"><center>Me. Im a college student of CdM(Colegio <br>
+de Montalban, my course is BSIT Bachelor<br>
+of Science Information Technology</td>
+<td style="font-size: 1.5vw"><center>Me. Im a college student of CdM(Colegio <br>
+de Montalban, my course is BSIT Bachelor<br>
+of Science Information Technology</td>
+<td style="font-size: 1.5vw"><center>Me. Im a college student of CdM(Colegio <br>
+de Montalban, my course is BSIT Bachelor<br>
+of Science Information Technology</td>
+<td style="font-size: 1.5vw"><center>Me. Im a college student of CdM(Colegio <br>
+de Montalban, my course is BSIT Bachelor<br>
+of Science Information Technology</td>
+</tr>
+</table>
+</center>
+<a href="homeicon.htm"><img border="0" alt="back" src="bback.png" width="70" height="70"></a>
+
+</body>
+</html>
